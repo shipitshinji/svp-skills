@@ -54,10 +54,10 @@ Skills work by being made available to Claude at runtime via a mounted file path
 
 ## Adding or updating a skill
 
-Raise a PR against `main` with your changes. Tag `@alfie` for review. Keep skill descriptions accurate — they control when Claude decides to use the skill, so vague descriptions lead to it being ignored or misapplied.
+Raise a PR against `main` with your changes. Tag `@shipitshinji` for review. Keep skill descriptions accurate — they control when Claude decides to use the skill, so vague descriptions lead to it being ignored or misapplied.
 
 ---
 
 ## Questions
 
-Ping Alfie in Slack or open an issue in this repo.
+Ping Alfie in MS Teams or open an issue in this repo.
