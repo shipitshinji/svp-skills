@@ -8,9 +8,9 @@ A library of Claude skills built for the SVP Sales and Marketing teams. Each ski
 
 ## What's in here
 
-| Skill | What it does |
+| Skill | What it does | Availability 
 |---|---|---|
-| `svp--public-sector-proposal-writer` | Writes tailored proposal copy from discovery notes, call transcripts and research you have available |
+| `svp--public-sector-proposal-writer` | Writes tailored proposal copy from discovery notes, call transcripts and research you have available | Available now
 | `svp-brand-guidelines` | Enforces SVP's visual identity in any designed output | COMING SOON
 | `qbr-deck-preparation` | Structures and drafts QBR presentation content | COMING SOON
 | `social-value-research` | Synthesises customer and sector research for social value context | COMING SOON
