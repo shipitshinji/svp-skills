@@ -12,6 +12,7 @@ A library of Claude skills built for the SVP team. Each skill gives Claude deep,
 |---|---|---|
 | `svp--public-sector-proposal-writer` | Writes tailored public sector proposal copy from discovery notes, call transcripts and research you have available | Available now
 | `svp-_deck_builder_skill` | Designs SVP-branded slideware using best practice and design principles to product on-brand slide decks with a PPTX output | Available now
+| `svp-copy-coach` | Ensures your emails, documents, guides, copy and other written content uses SVP's Tone Of Voice and eliminates the usual AI Copywriting tells | Available now
 
 ---
 
