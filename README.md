@@ -33,28 +33,12 @@ curl -O https://raw.githubusercontent.com/your-org/your-repo/main/skills/svp-pro
 
 Skills work by being made available to Claude at runtime via a mounted file path. The exact setup depends on your Claude environment, but the general flow is:
 
-### If you're using Claude.ai (Projects)
+### If you're using Claude.ai (Projects/Chat)
 
-1. Open the relevant **Project** in Claude.ai
-2. Go to **Project Settings → Instructions** (or equivalent in your plan)
-3. Paste the contents of `SKILL.md` into the custom instructions field, or attach the file if your plan supports file uploads to Projects
-4. Claude will now have access to the skill in that Project context
+1. Open **Customize**
+2. Select  **+**, then **Create Skills** and click **Upload Skill**
+3. Drag and drop the whole skill.md or .zip file (depending on which skill you've downloaded - if it's a .zip, upload the whole thing)
 
-### If you're using the Claude API / a local Claude environment
-
-1. Place the downloaded `SKILL.md` file in your skills directory (e.g. `/mnt/skills/user/`)
-2. Ensure your system prompt or environment configuration references that directory
-3. Claude will detect and load the skill when relevant tasks are triggered
-
-> **Note:** If you're unsure which setup applies to you, ask Alfie or check with whoever manages your Claude environment.
-
----
-
-## Adding or updating a skill
-
-Raise a PR against `main` with your changes. Tag `@shipitshinji` for review. Keep skill descriptions accurate — they control when Claude decides to use the skill, so vague descriptions lead to it being ignored or misapplied.
-
----
 
 ## Questions
 
