@@ -1,8 +1,8 @@
 # SVP Claude Skills
 
-A library of Claude skills built for the SVP Sales and Marketing teams. Each skill gives Claude deep, task-specific context so it can produce output that's actually useful.
+A library of Claude skills built for the SVP team. Each skill gives Claude deep, task-specific context so it can produce output that's actually useful.
 
-**Maintained by:** Alfie, Product Marketing @ Social Value Portal
+**Maintained by:** AG  @ Social Value Portal
 
 ---
 
@@ -10,11 +10,8 @@ A library of Claude skills built for the SVP Sales and Marketing teams. Each ski
 
 | Skill | What it does | Availability 
 |---|---|---|
-| `svp--public-sector-proposal-writer` | Writes tailored proposal copy from discovery notes, call transcripts and research you have available | Available now
-| `svp-brand-guidelines` | Enforces SVP's visual identity in any designed output | COMING SOON
-| `qbr-deck-preparation` | Structures and drafts QBR presentation content | COMING SOON
-| `social-value-research` | Synthesises customer and sector research for social value context | COMING SOON
-| `social-value-case-studies` | Synthesises customer Social Value data to turn raw project data into a case study slide | COMING SOON
+| `svp--public-sector-proposal-writer` | Writes tailored public sector proposal copy from discovery notes, call transcripts and research you have available | Available now
+| `svp-_deck_builder_skill` | Designs SVP-branded slideware using best practice and design principles to product on-brand slide decks with a PPTX output | Available now
 
 ---
 
